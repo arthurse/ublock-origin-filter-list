@@ -1,0 +1,5 @@
+! 2020-09-09 idtrust.com.br
+||hotjar.com/*js*$script,domain=www.idtrust.com.br
+||googletagmanager.com/*$script,domain=www.idtrust.com.br
+||google-analytics.com/*$script,domain=www.idtrust.com.br
+||googleanalytics.com/*$script,domain=www.idtrust.com.br
