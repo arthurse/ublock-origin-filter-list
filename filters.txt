@@ -1,4 +1,6 @@
 ! 2020-09-10 idtrust.com.br
+! Title: iDtrust.com.br - blocks Google Analytics and Hotjar
+! Expires: 1 hour
 ||hotjar.com/*js*$script,domain=www.idtrust.com.br
 ||googletagmanager.com/*$script,domain=www.idtrust.com.br
 ||google-analytics.com/*$script,domain=www.idtrust.com.br
