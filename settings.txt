@@ -1,10 +1,10 @@
 {
-  "timeStamp": 1599748426701,
+  "timeStamp": 1599748607671,
   "version": "1.29.2",
   "userSettings": {
     "advancedUserEnabled": true,
     "alwaysDetachLogger": true,
-    "autoUpdate": false,
+    "autoUpdate": true,
     "cloudStorageEnabled": false,
     "collapseBlocked": true,
     "colorBlindFriendly": false,
