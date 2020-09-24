@@ -1,8 +1,84 @@
-! 2020-09-10 idtrust.com.br
-! Title: iDtrust.com.br - blocks Google Analytics and Hotjar
+! 2020-09-24 idtrust.com.br
+! Title: iDtrust.com.br - Block Google Analytics and Hotjar
 ! Expires: 1 hour
-! Version: 4
+! Version: 1
 ||hotjar.com/*js*$script,domain=www.idtrust.com.br
 ||googletagmanager.com/*$script,domain=www.idtrust.com.br
 ||google-analytics.com/*$script,domain=www.idtrust.com.br
 ||googleanalytics.com/*$script,domain=www.idtrust.com.br
+||hotjar.com/*js*$script,domain=www.progredir.petrobras.com.br
+||googletagmanager.com/*$script,domain=www.progredir.petrobras.com.br
+||google-analytics.com/*$script,domain=www.progredir.petrobras.com.br
+||googleanalytics.com/*$script,domain=www.progredir.petrobras.com.br
+||hotjar.com/*js*$script,domain=finanfor-pifpaf.idtrust.com.br
+||googletagmanager.com/*$script,domain=finanfor-pifpaf.idtrust.com.br
+||google-analytics.com/*$script,domain=finanfor-pifpaf.idtrust.com.br
+||googleanalytics.com/*$script,domain=finanfor-pifpaf.idtrust.com.br
+||hotjar.com/*js*$script,domain=finanfor-sofisa.idtrust.com.br
+||googletagmanager.com/*$script,domain=finanfor-sofisa.idtrust.com.br
+||google-analytics.com/*$script,domain=finanfor-sofisa.idtrust.com.br
+||googleanalytics.com/*$script,domain=finanfor-sofisa.idtrust.com.br
+||hotjar.com/*js*$script,domain=finanfor-expressonepomuceno.idtrust.com.br
+||googletagmanager.com/*$script,domain=finanfor-expressonepomuceno.idtrust.com.br
+||google-analytics.com/*$script,domain=finanfor-expressonepomuceno.idtrust.com.br
+||googleanalytics.com/*$script,domain=finanfor-expressonepomuceno.idtrust.com.br
+||hotjar.com/*js*$script,domain=agroantecipa.com
+||googletagmanager.com/*$script,domain=agroantecipa.com
+||google-analytics.com/*$script,domain=agroantecipa.com
+||googleanalytics.com/*$script,domain=agroantecipa.com
+||hotjar.com/*js*$script,domain=agroantecipa.com.br
+||googletagmanager.com/*$script,domain=agroantecipa.com.br
+||google-analytics.com/*$script,domain=agroantecipa.com.br
+||googleanalytics.com/*$script,domain=agroantecipa.com.br
+||hotjar.com/*js*$script,domain=finanfor-copobras.idtrust.com.br
+||googletagmanager.com/*$script,domain=finanfor-copobras.idtrust.com.br
+||google-analytics.com/*$script,domain=finanfor-copobras.idtrust.com.br
+||googleanalytics.com/*$script,domain=finanfor-copobras.idtrust.com.br
+||hotjar.com/*js*$script,domain=antecipacao.conlifebank.com.br
+||googletagmanager.com/*$script,domain=antecipacao.conlifebank.com.br
+||google-analytics.com/*$script,domain=antecipacao.conlifebank.com.br
+||googleanalytics.com/*$script,domain=antecipacao.conlifebank.com.br
+||hotjar.com/*js*$script,domain=finanfor-monetarie.idtrust.com.br
+||googletagmanager.com/*$script,domain=finanfor-monetarie.idtrust.com.br
+||google-analytics.com/*$script,domain=finanfor-monetarie.idtrust.com.br
+||googleanalytics.com/*$script,domain=finanfor-monetarie.idtrust.com.br
+||hotjar.com/*js*$script,domain=finanfor-chatuba.idtrust.com.br
+||googletagmanager.com/*$script,domain=finanfor-chatuba.idtrust.com.br
+||google-analytics.com/*$script,domain=finanfor-chatuba.idtrust.com.br
+||googleanalytics.com/*$script,domain=finanfor-chatuba.idtrust.com.br
+||hotjar.com/*js*$script,domain=finanfor-mosaic.idtrust.com.br
+||googletagmanager.com/*$script,domain=finanfor-mosaic.idtrust.com.br
+||google-analytics.com/*$script,domain=finanfor-mosaic.idtrust.com.br
+||googleanalytics.com/*$script,domain=finanfor-mosaic.idtrust.com.br
+||hotjar.com/*js*$script,domain=finanfor-mosaic-homologacao.idtrust.com.br
+||googletagmanager.com/*$script,domain=finanfor-mosaic-homologacao.idtrust.com.br
+||google-analytics.com/*$script,domain=finanfor-mosaic-homologacao.idtrust.com.br
+||googleanalytics.com/*$script,domain=finanfor-mosaic-homologacao.idtrust.com.br
+||hotjar.com/*js*$script,domain=finanfor-esperanca.idtrust.com.br
+||googletagmanager.com/*$script,domain=finanfor-esperanca.idtrust.com.br
+||google-analytics.com/*$script,domain=finanfor-esperanca.idtrust.com.br
+||googleanalytics.com/*$script,domain=finanfor-esperanca.idtrust.com.br
+||hotjar.com/*js*$script,domain=finanfor-stg.idtrust.com.br
+||googletagmanager.com/*$script,domain=finanfor-stg.idtrust.com.br
+||google-analytics.com/*$script,domain=finanfor-stg.idtrust.com.br
+||googleanalytics.com/*$script,domain=finanfor-stg.idtrust.com.br
+||hotjar.com/*js*$script,domain=finanfor-apresentacao.idtrust.com.br
+||googletagmanager.com/*$script,domain=finanfor-apresentacao.idtrust.com.br
+||google-analytics.com/*$script,domain=finanfor-apresentacao.idtrust.com.br
+||googleanalytics.com/*$script,domain=finanfor-apresentacao.idtrust.com.br
+||hotjar.com/*js*$script,domain=adesao-apresentacao.idtrust.com.br
+||googletagmanager.com/*$script,domain=adesao-apresentacao.idtrust.com.br
+||google-analytics.com/*$script,domain=adesao-apresentacao.idtrust.com.br
+||googleanalytics.com/*$script,domain=adesao-apresentacao.idtrust.com.br
+||hotjar.com/*js*$script,domain=finanfor-petrobras-stg.idtrust.com.br
+||googletagmanager.com/*$script,domain=finanfor-petrobras-stg.idtrust.com.br
+||google-analytics.com/*$script,domain=finanfor-petrobras-stg.idtrust.com.br
+||googleanalytics.com/*$script,domain=finanfor-petrobras-stg.idtrust.com.br
+||hotjar.com/*js*$script,domain=finanfor-anglogold.idtrust.com.br
+||googletagmanager.com/*$script,domain=finanfor-anglogold.idtrust.com.br
+||google-analytics.com/*$script,domain=finanfor-anglogold.idtrust.com.br
+||googleanalytics.com/*$script,domain=finanfor-anglogold.idtrust.com.br
+||hotjar.com/*js*$script,domain=programaprogredir.idtrust.com.br
+||googletagmanager.com/*$script,domain=programaprogredir.idtrust.com.br
+||google-analytics.com/*$script,domain=programaprogredir.idtrust.com.br
+||googleanalytics.com/*$script,domain=programaprogredir.idtrust.com.br
