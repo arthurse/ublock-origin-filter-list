@@ -1,7 +1,7 @@
-! 2020-09-24 idtrust.com.br
+! 2020-10-23 idtrust.com.br
 ! Title: iDtrust.com.br - Block Google Analytics and Hotjar
 ! Expires: 1 hour
-! Version: 1
+! Version: 2
 ||hotjar.com/*js*$script,domain=www.idtrust.com.br
 ||googletagmanager.com/*$script,domain=www.idtrust.com.br
 ||google-analytics.com/*$script,domain=www.idtrust.com.br
@@ -82,3 +82,31 @@
 ||googletagmanager.com/*$script,domain=programaprogredir.idtrust.com.br
 ||google-analytics.com/*$script,domain=programaprogredir.idtrust.com.br
 ||googleanalytics.com/*$script,domain=programaprogredir.idtrust.com.br
+||hotjar.com/*js*$script,domain=plataforma.idtrust.com.br
+||googletagmanager.com/*$script,domain=plataforma.idtrust.com.br
+||google-analytics.com/*$script,domain=plataforma.idtrust.com.br
+||googleanalytics.com/*$script,domain=plataforma.idtrust.com.br
+||hotjar.com/*js*$script,domain=app.idtrust.com.br
+||googletagmanager.com/*$script,domain=app.idtrust.com.br
+||google-analytics.com/*$script,domain=app.idtrust.com.br
+||googleanalytics.com/*$script,domain=app.idtrust.com.br
+||hotjar.com/*js*$script,domain=carteira.idtrust.com.br
+||googletagmanager.com/*$script,domain=carteira.idtrust.com.br
+||google-analytics.com/*$script,domain=carteira.idtrust.com.br
+||googleanalytics.com/*$script,domain=carteira.idtrust.com.br
+||hotjar.com/*js*$script,domain=mutant-staging2.idtrust.com.br
+||googletagmanager.com/*$script,domain=mutant-staging2.idtrust.com.br
+||google-analytics.com/*$script,domain=mutant-staging2.idtrust.com.br
+||googleanalytics.com/*$script,domain=mutant-staging2.idtrust.com.br
+||hotjar.com/*js*$script,domain=mutant-staging.idtrust.com.br
+||googletagmanager.com/*$script,domain=mutant-staging.idtrust.com.br
+||google-analytics.com/*$script,domain=mutant-staging.idtrust.com.br
+||googleanalytics.com/*$script,domain=mutant-staging.idtrust.com.br
+||hotjar.com/*js*$script,domain=mutant-stg.idtrust.com.br
+||googletagmanager.com/*$script,domain=mutant-stg.idtrust.com.br
+||google-analytics.com/*$script,domain=mutant-stg.idtrust.com.br
+||googleanalytics.com/*$script,domain=mutant-stg.idtrust.com.br
+||hotjar.com/*js*$script,domain=app-staging.idtrust.com.br
+||googletagmanager.com/*$script,domain=app-staging.idtrust.com.br
+||google-analytics.com/*$script,domain=app-staging.idtrust.com.br
+||googleanalytics.com/*$script,domain=app-staging.idtrust.com.br
